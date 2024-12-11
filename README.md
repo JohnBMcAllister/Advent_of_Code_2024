@@ -7,9 +7,24 @@ Welcome to my Advent of Code 2024 repository! Advent of Code is an annual event 
 ## Table of Contents
 
 Each day contains two subfolders:
-- Problem 1: The solution to the first problem of the day.
-- Problem 2: The solution to the second problem of the day.
-  
+- **Problem 1**: The solution to the first problem of the day.
+- **Problem 2**: The solution to the second problem of the day.
+
+### Links to Solutions
+
 - [Day 1](https://github.com/JohnBMcAllister/Advent_of_Code_2024/tree/main/Day_1)
-- [Day 2](#day-2)
+  - [Problem 1](https://github.com/JohnBMcAllister/Advent_of_Code_2024/tree/main/Day_1/Problem_1)
+  - [Problem 2](https://github.com/JohnBMcAllister/Advent_of_Code_2024/tree/main/Day_1/Problem_2)
+- [Day 2](https://github.com/JohnBMcAllister/Advent_of_Code_2024/tree/main/Day_2)
+  - [Problem 1](https://github.com/JohnBMcAllister/Advent_of_Code_2024/tree/main/Day_2/Problem_1)
+  - [Problem 2](https://github.com/JohnBMcAllister/Advent_of_Code_2024/tree/main/Day_2/Problem_2)
+- Day 3 (Coming soon!)
+- Day 4 (Coming soon!)
+- Day 5 (Coming soon!)
+- Day 6 (Coming soon!)
+- Day 7 (Coming soon!)
+- Day 8 (Coming soon!)
+- Day 9 (Coming soon!)
+- Day 10 (Coming soon!)
+- Day 11 (Coming soon!)
 
