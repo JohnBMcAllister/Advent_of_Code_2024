@@ -1,21 +1,26 @@
 list1 = {}
 list2 = []
+similarityScore = 0
 
 
-#Open the file
-file = open("input.txt", "r")
 
 #For each line split the integers and append them to seperate lists
-for line in file:
-        x = line.split()
-        list1[x[0].strip()] = 0
-        list2.append(int(x[0].strip()))
+with open("input.txt", "r") as file:
+        for line in file:
+                x = line.split()
+                list1[int(x[0].strip())] = 0
+                list2.append(int(x[1].strip()))
 
-file.close()
+for i in range(len(list2)):
+        if list2[i] in list1:
+                list1[list2[i]] += 1
 
-list2.sort()
+for i in list1.keys():
+        similarityScore += i * list1[i]
 
-print("Length of list 1: ", len(list1))
-print("Length of list 2: ", len(list2))
+print(list1)
+print(similarityScore)
+
+
 
 
