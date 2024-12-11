@@ -11,5 +11,5 @@ Each day contains two subfolders:
 - Problem 2: The solution to the second problem of the day.
   
 - [Day 1](https://github.com/JohnBMcAllister/Advent_of_Code_2024/tree/main/Day_1)
-- [Day 2](#day-2)
+- [Day 2](#Day_2)
 
