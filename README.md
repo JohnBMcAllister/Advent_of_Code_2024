@@ -4,6 +4,9 @@
 
 Welcome to my Advent of Code 2024 repository! Advent of Code is an annual event where programmers from around the world solve a series of daily coding puzzles throughout the month of December. I decided to take on this challenge to push myself and improve my coding skills. It's been a fun and rewarding way to test my problem-solving abilities and learn new concepts along the way. Throughout this repository, you will find my solutions to the puzzles, written in Python.
 
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/JohnBMcAllister/Advent_of_Code_2024?style=flat-square)](https://github.com/JohnBMcAllister/Advent_of_Code_2024)
+[![Last Commit](https://img.shields.io/github/last-commit/JohnBMcAllister/Advent_of_Code_2024?style=flat-square)](https://github.com/JohnBMcAllister/Advent_of_Code_2024)
+
 ## Table of Contents
 
 Each day contains two subfolders:
